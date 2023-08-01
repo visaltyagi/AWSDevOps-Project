@@ -12,7 +12,7 @@
         body {
             font-family: Arial, Helvetica, sans-serif;
             background-attachment: fixed;
-            background-image: url(https://raw.githubusercontent.com/Kodeedudey/AWS-DevOps-Project/master/back.jpg);
+            background-image: url(https://github.com/Sameer-8080/aws-devops-project/blob/main/back.jpg);
         }
 
         header {
@@ -65,7 +65,7 @@
     </style>
 </head>
 <body>
-    <img src="https://raw.githubusercontent.com/Kodeedudey/AWS-DevOps-Project/master/1.png" alt="logo" width="100" height="42">
+    <img src="https://github.com/Sameer-8080/aws-devops-project/blob/main/1.png" alt="logo" width="100" height="42">
     <h1 align="center">Welcome to Intellipaat</h1>
     <header>
         <h2>Intellipaat Server Example</h2>
@@ -80,7 +80,7 @@
         </nav>
         <article>
             <figure>
-                <img src="https://raw.githubusercontent.com/Kodeedudey/AWS-DevOps-Project/master/aws.gif" width="1800" height="250">
+                <img src="https://github.com/Sameer-8080/aws-devops-project/blob/main/aws.gif" width="1800" height="250">
                 <div align="center">
                     <p>
                         <?php
