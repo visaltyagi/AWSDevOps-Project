@@ -5,67 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Intellipaat EC2 Server</title>
     <style>
-        * {
-            box-sizing: border-box;
-        }
-
-        body {
-            font-family: Arial, Helvetica, sans-serif;
-            background-attachment: fixed;
-            background-image: url(https://github.com/Sameer-8080/aws-devops-project/blob/main/back.jpg);
-        }
-
-        header {
-            background-color: brown;
-            padding: 10px;
-            text-align: center;
-            font-size: 35px;
-            color: white;
-        }
-
-        nav {
-            float: left;
-            width: 20%;
-            height: 300px;
-            background: #ccc;
-            padding: 20px;
-        }
-
-        nav ul {
-            list-style-type: none;
-            padding: 0;
-        }
-
-        article {
-            float: left;
-            padding: 20px;
-            width: 80%;
-            background-color: #f1f1f1;
-            height: 300px; /* only for demonstration, should be removed */
-        }
-
-        section:after {
-            content: "";
-            display: table;
-            clear: both;
-        }
-
-        h1 {
-            color: whitesmoke;
-        }
-
-        figure {
-            display: flex;
-            align-items: center;
-        }
-
-        figure p {
-            text-align: center;
-        }
+        /* CSS styles go here */
     </style>
 </head>
 <body>
-     <img src="1.png" alt="logo" width="100" height="42"> 
+    <img src="1.png" alt="logo" width="100" height="42"> 
     <h1 align="center">Welcome to Intellipaat</h1>
     <header>
         <h2>Intellipaat Server Example</h2>
@@ -80,7 +24,8 @@
         </nav>
         <article>
             <figure>
-                <img src="https://github.com/Sameer-8080/aws-devops-project/blob/main/aws.gif" width="1800" height="250">
+                <!-- Update the image source URL to the direct link of the image -->
+                <img src="https://raw.githubusercontent.com/Sameer-8080/aws-devops-project/main/aws.gif" width="1800" height="250">
                 <div align="center">
                     <p>
                         <?php
