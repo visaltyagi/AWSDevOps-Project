@@ -8,6 +8,12 @@
         /* CSS styles go here */
     </style>
 </head>
+
+    body {
+            font-family: Arial, Helvetica, sans-serif;
+            background-attachment: fixed;
+            background-image: url(https://raw.githubusercontent.com/Kodeedudey/AWS-DevOps-Project/master/back.jpg);
+        }
 <body>
     <img src="1.png" alt="logo" width="100" height="42"> 
     <h1 align="center">Welcome to Intellipaat</h1>
