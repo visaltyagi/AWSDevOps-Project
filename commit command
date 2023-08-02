@@ -1,0 +1,5 @@
+git clone --mirror https://github.com/Sameer-8080/aws-devops-project.git project-directory 
+
+cd project-directory
+
+git push destination
