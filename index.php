@@ -65,7 +65,6 @@
     </style>
 </head>
 <body>
-    <img src="https://github.com/Sameer-8080/aws-devops-project/blob/main/1.png" alt="logo" width="100" height="42"> 
     <h1 align="center">Welcome to Intellipaat</h1>
     <header>
         <h2>Intellipaat Server Example</h2>
