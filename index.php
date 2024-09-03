@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Intellipaat EC2 Server</title>
+    <title>AWS DevOps EC2 Server</title>
     <style>
         * {
             box-sizing: border-box;
@@ -65,21 +65,21 @@
     </style>
 </head>
 <body>
-    <h1 align="center">Welcome to Intellipaat</h1>
+    <h1 align="center">Welcome to AWS CodeDeploy Deployment</h1>
     <header>
-        <h2>Intellipaat Server Example</h2>
+        <h2>AWS CodeDeploy Example</h2>
     </header>
     <section>
         <nav>
             <ul>
-                <li><a href="https://intellipaat.com/tutorial/hadoop-tutorial/">Hadoop</a></li>
-                <li><a href="https://intellipaat.com/tutorial/amazon-web-services-aws-tutorial/">AWS</a></li>
-                <li><a href="https://intellipaat.com/tutorial/data-science-tutorial/">Data Science</a></li>
+                <li><a href="https://medium.com/devops-guides/>DevOps Guides</a></li>
+                <li><a href="https://medium.com/devops-guides/how-to-create-and-attach-the-ebs-volume-to-the-ec2-instance-ec2-assignment-2-91ff64ae80ff">AWS EC2</a></li>
+                <li><a href="https://medium.com/search?q=Git">Git</a></li>
             </ul>
         </nav>
         <article>
             <figure>
-                <img src="https://raw.githubusercontent.com/Sameer-8080/aws-devops-project/main/aws.gif" width="1800" height="250">
+                <img src="https://raw.githubusercontent.com/Kodeedudey/AWS-DevOps-Project/master/aws.gif" width="1800" height="250">
                 <div align="center">
                     <p>
                         <?php
