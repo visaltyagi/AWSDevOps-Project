@@ -73,7 +73,6 @@
         <nav>
             <ul>
                 <li><a href="https://medium.com/devops-guides/>DevOps Guides</a></li>
-                <li><a href="https://medium.com/devops-guides/how-to-create-and-attach-the-ebs-volume-to-the-ec2-instance-ec2-assignment-2-91ff64ae80ff">AWS EC2</a></li>
                 <li><a href="https://medium.com/search?q=Git">Git</a></li>
             </ul>
         </nav>
